@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Neural Network from scratch"
 date: 2025-08-18
 description: "A project to create a standard neural network from scratch"
