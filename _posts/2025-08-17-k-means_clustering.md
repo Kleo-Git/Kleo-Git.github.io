@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LISA, ISA returns Simulator"
+title: "K-Means Clustering for Image Sorting"
 date: 2025-08-17
 description: "A Computer Vision project using K-Means clustering to analyze, sort, and compress image color profiles across multiple color spaces."
 ---
