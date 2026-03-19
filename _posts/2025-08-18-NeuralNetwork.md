@@ -14,9 +14,5 @@ To gain a full understanding of standard NN's by looking indepth at the underlyi
 * **Activation Functions** Implementing Sigmoid, ReLU, Softmax and more functions.
 * **Optimization** Stochastic gradient descent, Adagrad and Adam.
 
-## Tech Stack
-* React
-* CSS Grid
-* Axios
 
 [Link to Repo](https://github.com/Kleo-Git/NeuralNetwork)

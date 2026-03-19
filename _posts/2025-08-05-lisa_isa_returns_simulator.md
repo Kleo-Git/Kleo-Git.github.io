@@ -14,9 +14,4 @@ To find out what the optimal ratio to split investments into ISA and LISA accoun
 # Methodology
 Run returns simulations combined with a chosen penalty function to account for loss caused by an early withdrawal from a LISA account and optimise to maximise gain whilst mininmising pain.
 
-## Tech Stack
-* React
-* CSS Grid
-* Axios
-
 [Link to Repo](https://github.com/Kleo-Git/lisa_isa_returns_simulator)
