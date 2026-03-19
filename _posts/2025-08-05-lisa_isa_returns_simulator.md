@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "LISA, ISA returns Simulator"
 date: 2025-08-05
 description: "A project to estimate and visualize returns from ISA's and LISA's."

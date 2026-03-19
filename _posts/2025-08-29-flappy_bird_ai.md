@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Flappy Bird AI"
 date: 2025-08-29
 description: "A self learning AI that masters Flappy Bird using Genetic Algorithm and Neural Networks in Unity"

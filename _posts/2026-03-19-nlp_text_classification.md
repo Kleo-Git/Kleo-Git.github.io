@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Text Classification"
 date: 2026-03-19
 description: "A project which used NLP techniques for the purposes of text classification."
